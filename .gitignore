@@ -12,11 +12,11 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Model weights
-*.pt
-*.pth
-*.onnx
-runs/
+# # Model weights
+# *.pt
+# *.pth
+# *.onnx
+# runs/
 
 # Data
 datasets/
